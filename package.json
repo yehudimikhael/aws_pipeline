@@ -1,0 +1,25 @@
+{
+  "name": "aws_pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehudimikhael/aws_pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehudimikhael/aws_pipeline/issues"
+  },
+  "homepage": "https://github.com/yehudimikhael/aws_pipeline#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.18.1",
+    "save": "^2.5.0"
+  }
+}
